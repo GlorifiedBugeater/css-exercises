@@ -1,1 +1,27 @@
 /* Add CSS Styling */
+
+.uno, 
+.cool-three,
+.just-a-class
+{
+    background-color: #a16885;
+    font-family: Verdana, "DejaVu Sans, sans-serif" ;
+}
+
+#duo 
+{
+    color: #0317fc;
+    font-size: 36px;
+}
+
+.cool-three
+{
+    font-size: 24px;
+}
+
+#fourth-id
+{
+    background-color: #03fc8c;
+    font-size: 24px;
+    font-weight: bold;
+}
